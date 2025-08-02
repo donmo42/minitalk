@@ -1,4 +1,4 @@
-Minitalk - 
+🧠 LMinitalk - Projet 42
 📝 Description
 
 Minitalk est un petit projet système de l'école 42 qui met en œuvre la communication entre deux processus UNIX (un serveur et un client) à l'aide de signaux POSIX. Le but est de transmettre un message du client au serveur, caractère par caractère, en encodant chaque bit via les signaux SIGUSR1 et SIGUSR2.
@@ -69,6 +69,9 @@ Il vous affichera son PID :
 Dans un autre terminal, envoyez un message avec le client :
 
      ./client 12345 "Bonjour !"
+Le serveur affichera ensuite :
+
+            "Bonjour !"
 ✅  possibles
 
     Envoi de messages plus longs.

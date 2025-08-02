@@ -84,5 +84,5 @@ Le serveur affichera ensuite :
 
 PS : Il faut ajouter deux bibliothèques à ce projet, ou bien remplacer ft_printf par la vraie fonction printf, et ft_atoi par la fonction standard atoi.
 Voici les liens vers les deux bibliothèques à ajouter : 
-https://github.com/donmo42/printf
+https://github.com/donmo42/printf </br>
 https://github.com/donmo42/libft
